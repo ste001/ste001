@@ -1,6 +1,6 @@
 ### Hi I'm Stefano, a JS-based Front-end Developer 👋 
 
-- 🧑‍💻 I'm currently working on my personal portfolio page and some other side projects, like a book exchange app
+- 🧑‍💻 I'm currently working on my personal portfolio page and some other side projects
 - ☁️ I'm studying for the GCP ACE Exam
 - 🥽 Always looking for any interesting OS projects to contribute to
 
